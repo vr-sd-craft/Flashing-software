@@ -149,20 +149,6 @@ cd android-flash-tool
 - 🔧 提交代码修复
 - 🌐 翻译本地化
 
-### 开发环境搭建
-```bash
-# 1. Fork项目
-# 2. 克隆你的分支
-git clone https://github.com/your-username/android-flash-tool.git
-
-# 3. 创建开发分支
-git checkout -b feature/your-feature
-
-# 4. 安装开发依赖
-pip install -r requirements-dev.txt
-
-# 5. 开始开发！
-```
 
 ## 📄 许可证
 
@@ -178,10 +164,8 @@ pip install -r requirements-dev.txt
 
 ## 📞 联系我们
 
-- 🌐 项目主页: [GitHub Repository]()
-- 📧 邮箱: your-email@example.com
-- 💬 讨论区: [GitHub Discussions]()
-- 🐦 Twitter: [@AndroidFlashTool]()
+- 🐧 QQ：2709773419
+- 📧 邮箱: codediy@qq.com
 
 ---
 
